@@ -1,6 +1,10 @@
 button{
     border-style: none;
+    border-color: white;
+    height: 20px;
+    width: 15px;
     cursor: pointer;
     color: white;
     background-color: transparent;
+    text-align: center;
 }
