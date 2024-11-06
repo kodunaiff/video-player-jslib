@@ -1,12 +1,14 @@
 .button-player {
     border-style: none;
     border-color: white;
-    height: 20px;
-    width: 15px;
+    height: 30px;
+    width: 30px;
     cursor: pointer;
     color: white;
     background-color: transparent;
     text-align: center;
+    font-size: 110%;
+    margin-top: -10px;
 }
 
 .player-controls {
