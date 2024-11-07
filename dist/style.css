@@ -8,14 +8,20 @@
     background-color: transparent;
     text-align: center;
     font-size: 110%;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 10px;
-    margin-top: -10px;
+    margin-top: -5px;
+}
+
+.space-filler {
+    flex-grow: 1;
 }
 
 .player-controls {
     background-color: black;
     height: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 .player-id {
